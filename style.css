@@ -30,4 +30,4 @@ nav details{margin:5px 0}nav summary{font-size:15px;cursor:pointer;padding:9px 1
 @media(max-width:600px){.course-cover h1{font-size:2.25rem}.course-hours th,.course-hours td{padding:.65rem .4rem}.course-hours th{font-size:.875rem}.course-hours td span{font-size:.875rem}}
 #digital-ra-tabs [aria-selected="true"]{background:#2e7d4f;color:white;border-color:#2e7d4f}
 
-article blockquote{margin:20px 0;padding:14px 20px;background:#e8f3ec;border-left:4px solid #2e7d4f}article blockquote p{margin:6px 0}article img{max-width:100%;height:auto}.scheme img{border:1px solid #d6e3da;border-radius:6px}article td img{max-width:64px}
+article blockquote{margin:20px 0;padding:14px 20px;background:#e8f3ec;border-left:4px solid #2e7d4f}article blockquote p{margin:6px 0}article img{max-width:100%;height:auto}.scheme img{border:1px solid #d6e3da;border-radius:6px}article td img{max-width:64px}.schedule td:first-child{white-space:nowrap}
